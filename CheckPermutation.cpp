@@ -6,6 +6,7 @@ bool checkPermutation(string s,string p){
     return (s==p);
 }
 int main(){
+    //leaning git changes using terminal
     string s,p;
     cin>>s>>p;
     if(checkPermutation(s,p)){
